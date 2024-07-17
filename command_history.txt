@@ -1,0 +1,50 @@
+/gm c
+/l hello
+/gmsp
+/gm sp
+/gamerule spectatorsGenerateChunks true
+/tp JollyJoe Kagesk
+/gm s
+/op Kagesk
+/gm c
+/gm s
+/gm c
+/gm s
+/gm c
+/gm s
+/gm c
+/heal Kagesk
+/gm s
+/gm c
+/gms
+/gm s
+/gm c
+/gms
+/gm s
+/heal
+/gm s
+/gm c
+/gms
+/gm s
+/gm c
+/gm s
+/heal
+/gm c
+/gm s
+/heal
+/tp Kagesk JollyJoe
+/gamerule keepInventory true
+/gm c
+/gm s
+/heal
+/gm c
+/gm s
+/gm c
+/locate biome terralith:volcanic_crater
+/ct hand
+/reload
+/datapack list
+/datapack enable "file/enchantment_encore_1.4a.zip"
+/gmsp
+/gm s
+/gm sp

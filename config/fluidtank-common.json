@@ -1,0 +1,23 @@
+{
+  "renderLowerBound": 0.001,
+  "renderUpperBound": 0.999,
+  "debug": false,
+  "changeItemInCreative": false,
+  "capacities": {
+    "creative": "8100000000000000000",
+    "emerald": "5308416000",
+    "gold": "331776000",
+    "lead": "15552000",
+    "tin": "3888000",
+    "void": "0",
+    "silver": "82944000",
+    "invalid": "0",
+    "diamond": "1327104000",
+    "bronze": "20736000",
+    "wood": "324000",
+    "copper": "3240000",
+    "star": "84934656000",
+    "iron": "20736000",
+    "stone": "1296000"
+  }
+}

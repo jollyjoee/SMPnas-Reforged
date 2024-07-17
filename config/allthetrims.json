@@ -1,0 +1,9 @@
+{
+  "use_legacy_renderer": false,
+  "debug": false,
+  "palette_sorting": "COLOUR",
+  "override_existing": false,
+  "animate": false,
+  "time_between_cycles": 75,
+  "animation_interpolation": "NONE"
+}
